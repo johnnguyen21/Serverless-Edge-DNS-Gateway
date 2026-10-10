@@ -1,2 +1,3 @@
 # Local Domain 
-# https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/private.txt
+https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/private.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adguard/dns-rebind-protection.txt
